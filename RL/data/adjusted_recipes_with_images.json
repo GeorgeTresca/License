@@ -1,0 +1,1939 @@
+[
+    {
+        "name": "Grilled Chicken Caesar Salad",
+        "ingredients": [
+            "chicken breast",
+            "lettuce",
+            "cheese",
+            "caesar dressing",
+            "croutons"
+        ],
+        "macros": {
+            "protein": 27.0,
+            "fat": 12.0,
+            "carbs": 36.0
+        },
+        "calories": 360,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Chicken_Caesar_Salad.jpg"
+    },
+    {
+        "name": "Vegetable Stir-Fry with Tofu",
+        "ingredients": [
+            "tofu",
+            "broccoli",
+            "carrots",
+            "soy sauce",
+            "ginger"
+        ],
+        "macros": {
+            "protein": 19.2,
+            "fat": 8.53,
+            "carbs": 25.6
+        },
+        "calories": 256,
+        "photo_url": "http://localhost:8000/recipe_images/Vegetable_Stir-Fry_with_Tofu.jpg"
+    },
+    {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+            "pasta",
+            "ground beef",
+            "tomato sauce",
+            "onions",
+            "garlic",
+            "cheese"
+        ],
+        "macros": {
+            "protein": 34.8,
+            "fat": 15.47,
+            "carbs": 46.4
+        },
+        "calories": 464,
+        "photo_url": "http://localhost:8000/recipe_images/Spaghetti_Bolognese.jpg"
+    },
+    {
+        "name": "Avocado Toast with Egg",
+        "ingredients": [
+            "whole grain bread",
+            "avocado",
+            "eggs",
+            "lemon juice",
+            "chilli powder"
+        ],
+        "macros": {
+            "protein": 25.95,
+            "fat": 11.53,
+            "carbs": 34.6
+        },
+        "calories": 346,
+        "photo_url": "http://localhost:8000/recipe_images/Avocado_Toast_with_Egg.jpg"
+    },
+    {
+        "name": "Chicken Curry with Rice",
+        "ingredients": [
+            "chicken breast",
+            "coconut milk",
+            "curry",
+            "basmati rice",
+            "cilantro"
+        ],
+        "macros": {
+            "protein": 39.67,
+            "fat": 17.63,
+            "carbs": 52.9
+        },
+        "calories": 529,
+        "photo_url": "http://localhost:8000/recipe_images/Chicken_Curry_with_Rice.jpg"
+    },
+    {
+        "name": "Margarita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "cheese",
+            "basil",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 33.07,
+            "fat": 14.7,
+            "carbs": 44.1
+        },
+        "calories": 441,
+        "photo_url": "http://localhost:8000/recipe_images/Margarita_Pizza.jpg"
+    },
+    {
+        "name": "Grilled Fish with Asparagus",
+        "ingredients": [
+            "fish fillet",
+            "asparagus",
+            "lemon juice",
+            "olive oil",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 29.1,
+            "fat": 12.93,
+            "carbs": 38.8
+        },
+        "calories": 388,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Fish_with_Asparagus.jpg"
+    },
+    {
+        "name": "Vegan Buddha Bowl",
+        "ingredients": [
+            "quinoa",
+            "chickpeas",
+            "avocado",
+            "spinach",
+            "sweet potatoes"
+        ],
+        "macros": {
+            "protein": 24.0,
+            "fat": 10.67,
+            "carbs": 32.0
+        },
+        "calories": 320,
+        "photo_url": "http://localhost:8000/recipe_images/Vegan_Buddha_Bowl.jpg"
+    },
+    {
+        "name": "Greek Salad",
+        "ingredients": [
+            "cucumber",
+            "tomatoes",
+            "cheese",
+            "olives",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 15.52,
+            "fat": 6.9,
+            "carbs": 20.7
+        },
+        "calories": 207,
+        "photo_url": "http://localhost:8000/recipe_images/Greek_Salad.jpg"
+    },
+    {
+        "name": "Beef Tacos",
+        "ingredients": [
+            "ground beef",
+            "taco shells",
+            "lettuce",
+            "cheese",
+            "salsa"
+        ],
+        "macros": {
+            "protein": 27.82,
+            "fat": 12.37,
+            "carbs": 37.1
+        },
+        "calories": 371,
+        "photo_url": "http://localhost:8000/recipe_images/Beef_Tacos.jpg"
+    },
+    {
+        "name": "Shrimp Alfredo Pasta",
+        "ingredients": [
+            "shrimp",
+            "pasta",
+            "cheese",
+            "cream",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 36.82,
+            "fat": 16.37,
+            "carbs": 49.1
+        },
+        "calories": 491,
+        "photo_url": "http://localhost:8000/recipe_images/Shrimp_Alfredo_Pasta.jpg"
+    },
+    {
+        "name": "Stuffed Zucchini Boats",
+        "ingredients": [
+            "zucchini",
+            "ground turkey",
+            "tomato sauce",
+            "cheese",
+            "onions"
+        ],
+        "macros": {
+            "protein": 19.35,
+            "fat": 8.6,
+            "carbs": 25.8
+        },
+        "calories": 258,
+        "photo_url": "http://localhost:8000/recipe_images/Stuffed_Zucchini_Boats.jpg"
+    },
+    {
+        "name": "Lemon Herb Chicken",
+        "ingredients": [
+            "chicken breast",
+            "lemon juice",
+            "rosemary",
+            "garlic",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 23.62,
+            "fat": 10.5,
+            "carbs": 31.5
+        },
+        "calories": 315,
+        "photo_url": "http://localhost:8000/recipe_images/Lemon_Herb_Chicken.png"
+    },
+    {
+        "name": "Vegetarian Chili",
+        "ingredients": [
+            "beans",
+            "tomato sauce",
+            "onions",
+            "bell peppers"
+        ],
+        "macros": {
+            "protein": 17.47,
+            "fat": 7.77,
+            "carbs": 23.3
+        },
+        "calories": 233,
+        "photo_url": "http://localhost:8000/recipe_images/Vegetarian_Chili.jpg"
+    },
+    {
+        "name": "Grilled Shrimp Skewers",
+        "ingredients": [
+            "shrimp",
+            "bell peppers",
+            "onions",
+            "lemon juice",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 22.05,
+            "fat": 9.8,
+            "carbs": 29.4
+        },
+        "calories": 294,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Shrimp_Skewers.jpg"
+    },
+    {
+        "name": "Sweet Potato Hash",
+        "ingredients": [
+            "sweet potatoes",
+            "onions",
+            "bell peppers",
+            "eggs",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 24.82,
+            "fat": 11.03,
+            "carbs": 33.1
+        },
+        "calories": 331,
+        "photo_url": "http://localhost:8000/recipe_images/Sweet_Potato_Hash.jpg"
+    },
+    {
+        "name": "Mediterranean Quinoa Salad",
+        "ingredients": [
+            "quinoa",
+            "cucumber",
+            "tomatoes",
+            "cheese",
+            "olives"
+        ],
+        "macros": {
+            "protein": 18.0,
+            "fat": 8.0,
+            "carbs": 24.0
+        },
+        "calories": 240,
+        "photo_url": "http://localhost:8000/recipe_images/Mediterranean_Quinoa_Salad.jpg"
+    },
+    {
+        "name": "Pulled Pork Sandwich",
+        "ingredients": [
+            "pulled pork",
+            "bbq sauce",
+            "burger buns",
+            "coleslaw",
+            "pickles"
+        ],
+        "macros": {
+            "protein": 34.5,
+            "fat": 15.33,
+            "carbs": 46.0
+        },
+        "calories": 460,
+        "photo_url": "http://localhost:8000/recipe_images/Pulled_Pork_Sandwich.jpg"
+    },
+    {
+        "name": "Egg Salad Sandwich",
+        "ingredients": [
+            "eggs",
+            "mayonnaise",
+            "whole grain bread",
+            "lettuce",
+            "mustard"
+        ],
+        "macros": {
+            "protein": 28.12,
+            "fat": 12.5,
+            "carbs": 37.5
+        },
+        "calories": 375,
+        "photo_url": "http://localhost:8000/recipe_images/Egg_Salad_Sandwich.jpg"
+    },
+    {
+        "name": "Classic Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "cheese",
+            "basil",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 29.1,
+            "fat": 12.93,
+            "carbs": 38.8
+        },
+        "calories": 388,
+        "photo_url": "http://localhost:8000/recipe_images/Classic_Margherita_Pizza.jpg"
+    },
+    {
+        "name": "Beef and Broccoli Stir-Fry",
+        "ingredients": [
+            "beef strips",
+            "broccoli",
+            "soy sauce",
+            "ginger",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 24.82,
+            "fat": 11.03,
+            "carbs": 33.1
+        },
+        "calories": 331,
+        "photo_url": "http://localhost:8000/recipe_images/Beef_and_Broccoli_Stir-Fry.jpg"
+    },
+    {
+        "name": "Vegetarian Sushi Rolls",
+        "ingredients": [
+            "sushi rice",
+            "seaweed",
+            "cucumber",
+            "avocado",
+            "carrots"
+        ],
+        "macros": {
+            "protein": 18.38,
+            "fat": 8.17,
+            "carbs": 24.5
+        },
+        "calories": 245,
+        "photo_url": "http://localhost:8000/recipe_images/Vegetarian_Sushi_Rolls.jpg"
+    },
+    {
+        "name": "Honey Garlic Fish Fillet",
+        "ingredients": [
+            "fish fillet",
+            "honey",
+            "soy sauce",
+            "garlic",
+            "lemon juice"
+        ],
+        "macros": {
+            "protein": 29.4,
+            "fat": 13.07,
+            "carbs": 39.2
+        },
+        "calories": 392,
+        "photo_url": "http://localhost:8000/recipe_images/Honey_Garlic_Fish_Fillet.jpg"
+    },
+    {
+        "name": "Avocado Chicken Wrap",
+        "ingredients": [
+            "chicken breast",
+            "avocado",
+            "whole grain tortilla",
+            "lettuce",
+            "tomatoes"
+        ],
+        "macros": {
+            "protein": 30.75,
+            "fat": 13.67,
+            "carbs": 41.0
+        },
+        "calories": 410,
+        "photo_url": "http://localhost:8000/recipe_images/Avocado_Chicken_Wrap.jpg"
+    },
+    {
+        "name": "Cabbage Stir-Fry",
+        "ingredients": [
+            "cabbage",
+            "carrots",
+            "soy sauce",
+            "ginger",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 10.28,
+            "fat": 4.57,
+            "carbs": 13.7
+        },
+        "calories": 137,
+        "photo_url": "http://localhost:8000/recipe_images/Cabbage_Stir-Fry.jpg"
+    },
+    {
+        "name": "Lentil and Spinach Stew",
+        "ingredients": [
+            "lentils",
+            "spinach",
+            "onions",
+            "tomato sauce",
+            "cumin"
+        ],
+        "macros": {
+            "protein": 16.27,
+            "fat": 7.23,
+            "carbs": 21.7
+        },
+        "calories": 217,
+        "photo_url": "http://localhost:8000/recipe_images/Lentil_and_Spinach_Stew.jpg"
+    },
+    {
+        "name": "Baked Cod with Green Beans",
+        "ingredients": [
+            "fish fillet",
+            "green beans",
+            "lemon juice",
+            "olive oil",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 22.8,
+            "fat": 10.13,
+            "carbs": 30.4
+        },
+        "calories": 304,
+        "photo_url": "http://localhost:8000/recipe_images/Baked_Cod_with_Green_Beans.jpg"
+    },
+    {
+        "name": "Turkey Meatballs with Quinoa",
+        "ingredients": [
+            "ground turkey",
+            "quinoa",
+            "cheese",
+            "tomato sauce",
+            "basil"
+        ],
+        "macros": {
+            "protein": 30.67,
+            "fat": 13.63,
+            "carbs": 40.9
+        },
+        "calories": 409,
+        "photo_url": "http://localhost:8000/recipe_images/Turkey_Meatballs_with_Quinoa.jpg"
+    },
+    {
+        "name": "BBQ Chicken with Sweet Potato Wedges",
+        "ingredients": [
+            "chicken breast",
+            "bbq sauce",
+            "sweet potatoes",
+            "paprika",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 33.82,
+            "fat": 15.03,
+            "carbs": 45.1
+        },
+        "calories": 451,
+        "photo_url": "http://localhost:8000/recipe_images/BBQ_Chicken_with_Sweet_Potato_Wedges.jpg"
+    },
+    {
+        "name": "Beef with Mashed Potatoes",
+        "ingredients": [
+            "beef strips",
+            "mashed potatoes",
+            "gravy",
+            "butter",
+            "rosemary"
+        ],
+        "macros": {
+            "protein": 33.52,
+            "fat": 14.9,
+            "carbs": 44.7
+        },
+        "calories": 447,
+        "photo_url": "http://localhost:8000/recipe_images/Beef_with_Mashed_Potatoes.jpg"
+    },
+    {
+        "name": "Grilled Chicken with Couscous",
+        "ingredients": [
+            "chicken breast",
+            "couscous",
+            "cherry tomatoes",
+            "parsley",
+            "lemon juice"
+        ],
+        "macros": {
+            "protein": 28.95,
+            "fat": 12.87,
+            "carbs": 38.6
+        },
+        "calories": 386,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Chicken_with_Couscous.jpg"
+    },
+    {
+        "name": "Fish with Basmati Rice",
+        "ingredients": [
+            "fish fillet",
+            "basmati rice",
+            "spinach",
+            "garlic",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 35.7,
+            "fat": 15.87,
+            "carbs": 47.6
+        },
+        "calories": 476,
+        "photo_url": "http://localhost:8000/recipe_images/Fish_with_Basmati_Rice.jpeg"
+    },
+    {
+        "name": "Chicken Breast with Lentils",
+        "ingredients": [
+            "chicken breast",
+            "lentils",
+            "carrots",
+            "onions",
+            "thyme"
+        ],
+        "macros": {
+            "protein": 30.0,
+            "fat": 13.33,
+            "carbs": 40.0
+        },
+        "calories": 400,
+        "photo_url": "http://localhost:8000/recipe_images/Chicken_Breast_with_Lentils.jpeg"
+    },
+    {
+        "name": "Steak with Roasted Vegetables",
+        "ingredients": [
+            "steak",
+            "zucchini",
+            "bell peppers",
+            "olive oil",
+            "rosemary"
+        ],
+        "macros": {
+            "protein": 33.67,
+            "fat": 14.97,
+            "carbs": 44.9
+        },
+        "calories": 449,
+        "photo_url": "http://localhost:8000/recipe_images/Steak_with_Roasted_Vegetables.jpg"
+    },
+    {
+        "name": "Eggplant Lasagna",
+        "ingredients": [
+            "eggplant",
+            "ground beef",
+            "tomato sauce",
+            "cheese",
+            "cheese"
+        ],
+        "macros": {
+            "protein": 25.35,
+            "fat": 11.27,
+            "carbs": 33.8
+        },
+        "calories": 338,
+        "photo_url": "http://localhost:8000/recipe_images/Eggplant_Lasagna.jpeg"
+    },
+    {
+        "name": "Chili Lime Shrimp with Rice",
+        "ingredients": [
+            "shrimp",
+            "basmati rice",
+            "lime",
+            "chili powder",
+            "cilantro"
+        ],
+        "macros": {
+            "protein": 26.02,
+            "fat": 11.57,
+            "carbs": 34.7
+        },
+        "calories": 347,
+        "photo_url": "http://localhost:8000/recipe_images/Chili_Lime_Shrimp_with_Rice.jpg"
+    },
+    {
+        "name": "Turkey Wrap with Veggies",
+        "ingredients": [
+            "turkey slices",
+            "whole grain tortilla",
+            "lettuce",
+            "tomatoes",
+            "avocado"
+        ],
+        "macros": {
+            "protein": 23.55,
+            "fat": 10.47,
+            "carbs": 31.4
+        },
+        "calories": 314,
+        "photo_url": "http://localhost:8000/recipe_images/Turkey_Wrap_with_Veggies.jpg"
+    },
+    {
+        "name": "Chicken with Corn Salad",
+        "ingredients": [
+            "chicken breast",
+            "corn",
+            "tomatoes",
+            "red onion",
+            "cilantro"
+        ],
+        "macros": {
+            "protein": 22.2,
+            "fat": 9.87,
+            "carbs": 29.6
+        },
+        "calories": 296,
+        "photo_url": "http://localhost:8000/recipe_images/Chicken_with_Corn_Salad.jpg"
+    },
+    {
+        "name": "Tuna Steak with Quinoa",
+        "ingredients": [
+            "tuna steak",
+            "quinoa",
+            "spinach",
+            "lemon juice",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 28.72,
+            "fat": 12.77,
+            "carbs": 38.3
+        },
+        "calories": 383,
+        "photo_url": "http://localhost:8000/recipe_images/Tuna_Steak_with_Quinoa.jpg"
+    },
+    {
+        "name": "Herb-Crusted Pork Tenderloin with Carrots",
+        "ingredients": [
+            "pork tenderloin",
+            "carrots",
+            "rosemary",
+            "thyme",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 24.82,
+            "fat": 11.03,
+            "carbs": 33.1
+        },
+        "calories": 331,
+        "photo_url": "http://localhost:8000/recipe_images/Herb-Crusted_Pork_Tenderloin_with_Carrots.jpg"
+    },
+    {
+        "name": "Grilled Chicken with Polenta",
+        "ingredients": [
+            "chicken breast",
+            "polenta",
+            "cheese",
+            "butter",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 27.9,
+            "fat": 12.4,
+            "carbs": 37.2
+        },
+        "calories": 372,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Chicken_with_Polenta.jpg"
+    },
+    {
+        "name": "Fish Tacos with Mango Salsa",
+        "ingredients": [
+            "fish fillet",
+            "taco shells",
+            "mango",
+            "lime",
+            "red onion"
+        ],
+        "macros": {
+            "protein": 25.65,
+            "fat": 11.4,
+            "carbs": 34.2
+        },
+        "calories": 342,
+        "photo_url": "http://localhost:8000/recipe_images/Fish_Tacos_with_Mango_Salsa.jpg"
+    },
+    {
+        "name": "Beef Stew with Potatoes",
+        "ingredients": [
+            "beef chunks",
+            "potatoes",
+            "carrots",
+            "celery",
+            "tomato sauce"
+        ],
+        "macros": {
+            "protein": 30.52,
+            "fat": 13.57,
+            "carbs": 40.7
+        },
+        "calories": 407,
+        "photo_url": "http://localhost:8000/recipe_images/Beef_Stew_with_Potatoes.jpg"
+    },
+    {
+        "name": "Roasted Duck with Orange Glaze",
+        "ingredients": [
+            "duck breast",
+            "orange juice",
+            "honey",
+            "garlic",
+            "thyme"
+        ],
+        "macros": {
+            "protein": 33.38,
+            "fat": 14.83,
+            "carbs": 44.5
+        },
+        "calories": 445,
+        "photo_url": "http://localhost:8000/recipe_images/Roasted_Duck_with_Orange_Glaze.jpg"
+    },
+    {
+        "name": "Grilled Lamb Chops with Mint Sauce",
+        "ingredients": [
+            "lamb chops",
+            "mint",
+            "olive oil",
+            "garlic",
+            "lemon juice"
+        ],
+        "macros": {
+            "protein": 25.5,
+            "fat": 11.33,
+            "carbs": 34.0
+        },
+        "calories": 340,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Lamb_Chops_with_Mint_Sauce.jpg"
+    },
+    {
+        "name": "Stuffed Bell Peppers with Ground Beef",
+        "ingredients": [
+            "bell peppers",
+            "ground beef",
+            "quinoa",
+            "tomato sauce",
+            "onions"
+        ],
+        "macros": {
+            "protein": 23.25,
+            "fat": 10.33,
+            "carbs": 31.0
+        },
+        "calories": 310,
+        "photo_url": "http://localhost:8000/recipe_images/Stuffed_Bell_Peppers_with_Ground_Beef.jpg"
+    },
+    {
+        "name": "Turkey Burgers with Sweet Potato Fries",
+        "ingredients": [
+            "ground turkey",
+            "burger buns",
+            "sweet potatoes",
+            "lettuce",
+            "tomatoes"
+        ],
+        "macros": {
+            "protein": 30.82,
+            "fat": 13.7,
+            "carbs": 41.1
+        },
+        "calories": 411,
+        "photo_url": "http://localhost:8000/recipe_images/Turkey_Burgers_with_Sweet_Potato_Fries.jpg"
+    },
+    {
+        "name": "Baked Fish with Sweet Potatoes",
+        "ingredients": [
+            "fish fillet",
+            "sweet potatoes",
+            "honey",
+            "olive oil",
+            "thyme"
+        ],
+        "macros": {
+            "protein": 35.4,
+            "fat": 15.73,
+            "carbs": 47.2
+        },
+        "calories": 472,
+        "photo_url": "http://localhost:8000/recipe_images/Baked_Fish_with_Sweet_Potatoes.jpg"
+    },
+    {
+        "name": "Chicken Stir-Fry with Noodles",
+        "ingredients": [
+            "chicken breast",
+            "noodles",
+            "bell peppers",
+            "soy sauce",
+            "ginger"
+        ],
+        "macros": {
+            "protein": 30.45,
+            "fat": 13.53,
+            "carbs": 40.6
+        },
+        "calories": 406,
+        "photo_url": "http://localhost:8000/recipe_images/Chicken_Stir-Fry_with_Noodles.jpg"
+    },
+    {
+        "name": "Grilled Tuna with Zucchini Salad",
+        "ingredients": [
+            "tuna steak",
+            "zucchini",
+            "lemon juice",
+            "olive oil",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 25.12,
+            "fat": 11.17,
+            "carbs": 33.5
+        },
+        "calories": 335,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Tuna_with_Zucchini_Salad.jpg"
+    },
+    {
+        "name": "Stuffed Mushrooms with Spinach",
+        "ingredients": [
+            "mushrooms",
+            "spinach",
+            "cheese",
+            "breadcrumbs",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 16.35,
+            "fat": 7.27,
+            "carbs": 21.8
+        },
+        "calories": 218,
+        "photo_url": "http://localhost:8000/recipe_images/Stuffed_Mushrooms_with_Spinach.jpg"
+    },
+    {
+        "name": "Shrimp Pasta with Garlic Butter Sauce",
+        "ingredients": [
+            "shrimp",
+            "pasta",
+            "butter",
+            "garlic",
+            "parsley"
+        ],
+        "macros": {
+            "protein": 42.3,
+            "fat": 18.8,
+            "carbs": 56.4
+        },
+        "calories": 564,
+        "photo_url": "http://localhost:8000/recipe_images/Shrimp_Pasta_with_Garlic_Butter_Sauce.jpg"
+    },
+    {
+        "name": "Roasted Chicken with Vegetables",
+        "ingredients": [
+            "chicken breast",
+            "carrots",
+            "potatoes",
+            "olive oil",
+            "thyme"
+        ],
+        "macros": {
+            "protein": 29.62,
+            "fat": 13.17,
+            "carbs": 39.5
+        },
+        "calories": 395,
+        "photo_url": "http://localhost:8000/recipe_images/Roasted_Chicken_with_Vegetables.jpg"
+    },
+    {
+        "name": "Baked Eggplant Parmesan",
+        "ingredients": [
+            "eggplant",
+            "cheese",
+            "tomato sauce",
+            "cheese",
+            "breadcrumbs"
+        ],
+        "macros": {
+            "protein": 18.15,
+            "fat": 8.07,
+            "carbs": 24.2
+        },
+        "calories": 242,
+        "photo_url": "http://localhost:8000/recipe_images/Baked_Eggplant_Parmesan.jpg"
+    },
+    {
+        "name": "Chili Con Carne with Rice",
+        "ingredients": [
+            "ground beef",
+            "beans",
+            "tomatoes",
+            "chili powder",
+            "basmati rice"
+        ],
+        "macros": {
+            "protein": 36.38,
+            "fat": 16.17,
+            "carbs": 48.5
+        },
+        "calories": 485,
+        "photo_url": "http://localhost:8000/recipe_images/Chili_Con_Carne_with_Rice.jpg"
+    },
+    {
+        "name": "Grilled Chicken Caesar Wrap",
+        "ingredients": [
+            "chicken breast",
+            "whole grain tortilla",
+            "lettuce",
+            "caesar dressing",
+            "cheese"
+        ],
+        "macros": {
+            "protein": 28.12,
+            "fat": 12.5,
+            "carbs": 37.5
+        },
+        "calories": 375,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Chicken_Caesar_Wrap.jpg"
+    },
+    {
+        "name": "Pesto Pasta with Grilled Chicken",
+        "ingredients": [
+            "pasta",
+            "chicken breast",
+            "pesto",
+            "cheese",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 36.6,
+            "fat": 16.27,
+            "carbs": 48.8
+        },
+        "calories": 488,
+        "photo_url": "http://localhost:8000/recipe_images/Pesto_Pasta_with_Grilled_Chicken.jpg"
+    },
+    {
+        "name": "Seared Tuna with Avocado Salad",
+        "ingredients": [
+            "tuna steak",
+            "avocado",
+            "spinach",
+            "lemon juice",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 28.5,
+            "fat": 12.67,
+            "carbs": 38.0
+        },
+        "calories": 380,
+        "photo_url": "http://localhost:8000/recipe_images/Seared_Tuna_with_Avocado_Salad.jpg"
+    },
+    {
+        "name": "Roasted Turkey Breast with Gravy",
+        "ingredients": [
+            "turkey breast",
+            "gravy",
+            "mashed potatoes",
+            "thyme",
+            "butter"
+        ],
+        "macros": {
+            "protein": 30.82,
+            "fat": 13.7,
+            "carbs": 41.1
+        },
+        "calories": 411,
+        "photo_url": "http://localhost:8000/recipe_images/Roasted_Turkey_Breast_with_Gravy.jpg"
+    },
+    {
+        "name": "Grilled Shrimp Tacos with Salsa",
+        "ingredients": [
+            "shrimp",
+            "taco shells",
+            "tomatoes",
+            "onions",
+            "cilantro"
+        ],
+        "macros": {
+            "protein": 22.95,
+            "fat": 10.2,
+            "carbs": 30.6
+        },
+        "calories": 306,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Shrimp_Tacos_with_Salsa.jpg"
+    },
+    {
+        "name": "Lamb Stew with Root Vegetables",
+        "ingredients": [
+            "lamb chunks",
+            "potatoes",
+            "carrots",
+            "celery",
+            "tomato sauce"
+        ],
+        "macros": {
+            "protein": 30.0,
+            "fat": 13.33,
+            "carbs": 40.0
+        },
+        "calories": 400,
+        "photo_url": "http://localhost:8000/recipe_images/Lamb_Stew_with_Root_Vegetables.jpg"
+    },
+    {
+        "name": "Vegetable Stir-Fry with Cashews",
+        "ingredients": [
+            "broccoli",
+            "carrots",
+            "bell peppers",
+            "cashews",
+            "soy sauce"
+        ],
+        "macros": {
+            "protein": 19.43,
+            "fat": 8.63,
+            "carbs": 25.9
+        },
+        "calories": 259,
+        "photo_url": "http://localhost:8000/recipe_images/Vegetable_Stir-Fry_with_Cashews.jpg"
+    },
+    {
+        "name": "Crispy Chicken with Mac and Cheese",
+        "ingredients": [
+            "chicken breast",
+            "pasta",
+            "cheese",
+            "milk",
+            "butter"
+        ],
+        "macros": {
+            "protein": 39.6,
+            "fat": 17.6,
+            "carbs": 52.8
+        },
+        "calories": 528,
+        "photo_url": "http://localhost:8000/recipe_images/Crispy_Chicken_with_Mac_and_Cheese.jpg"
+    },
+    {
+        "name": "Pan-Seared Fish with Kale",
+        "ingredients": [
+            "fish fillet",
+            "kale",
+            "garlic",
+            "olive oil",
+            "lemon juice"
+        ],
+        "macros": {
+            "protein": 27.07,
+            "fat": 12.03,
+            "carbs": 36.1
+        },
+        "calories": 361,
+        "photo_url": "http://localhost:8000/recipe_images/Pan-Seared_Fish_with_Kale.jpg"
+    },
+    {
+        "name": "Turkey Meatloaf with Green Beans",
+        "ingredients": [
+            "ground turkey",
+            "breadcrumbs",
+            "ketchup",
+            "green beans",
+            "onions"
+        ],
+        "macros": {
+            "protein": 25.2,
+            "fat": 11.2,
+            "carbs": 33.6
+        },
+        "calories": 336,
+        "photo_url": "http://localhost:8000/recipe_images/Turkey_Meatloaf_with_Green_Beans.jpg"
+    },
+    {
+        "name": "BBQ Ribs with Coleslaw",
+        "ingredients": [
+            "pork ribs",
+            "bbq sauce",
+            "cabbage",
+            "carrots",
+            "mayonnaise"
+        ],
+        "macros": {
+            "protein": 31.88,
+            "fat": 14.17,
+            "carbs": 42.5
+        },
+        "calories": 425,
+        "photo_url": "http://localhost:8000/recipe_images/BBQ_Ribs_with_Coleslaw.jpg"
+    },
+    {
+        "name": "Lentil Curry with Rice",
+        "ingredients": [
+            "lentils",
+            "coconut milk",
+            "curry",
+            "basmati rice",
+            "spinach"
+        ],
+        "macros": {
+            "protein": 28.12,
+            "fat": 12.5,
+            "carbs": 37.5
+        },
+        "calories": 375,
+        "photo_url": "http://localhost:8000/recipe_images/Lentil_Curry_with_Rice.jpg"
+    },
+    {
+        "name": "Grilled Veggie Wrap",
+        "ingredients": [
+            "whole grain tortilla",
+            "zucchini",
+            "bell peppers",
+            "hummus",
+            "spinach"
+        ],
+        "macros": {
+            "protein": 18.75,
+            "fat": 8.33,
+            "carbs": 25.0
+        },
+        "calories": 250,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Veggie_Wrap.jpg"
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+            "pasta",
+            "bacon",
+            "eggs",
+            "cheese",
+            "black pepper"
+        ],
+        "macros": {
+            "protein": 33.3,
+            "fat": 14.8,
+            "carbs": 44.4
+        },
+        "calories": 444,
+        "photo_url": "http://localhost:8000/recipe_images/Spaghetti_Carbonara.jpeg"
+    },
+    {
+        "name": "Honey Mustard Chicken with Brussels Sprouts",
+        "ingredients": [
+            "chicken breast",
+            "brussels sprouts",
+            "honey",
+            "mustard",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 24.07,
+            "fat": 10.7,
+            "carbs": 32.1
+        },
+        "calories": 321,
+        "photo_url": "http://localhost:8000/recipe_images/Honey_Mustard_Chicken_with_Brussels_Sprouts.jpg"
+    },
+    {
+        "name": "Stuffed Cabbage Rolls",
+        "ingredients": [
+            "cabbage",
+            "ground beef",
+            "rice",
+            "tomato sauce",
+            "onions"
+        ],
+        "macros": {
+            "protein": 20.85,
+            "fat": 9.27,
+            "carbs": 27.8
+        },
+        "calories": 278,
+        "photo_url": "http://localhost:8000/recipe_images/Stuffed_Cabbage_Rolls.jpg"
+    },
+    {
+        "name": "Grilled Chicken with Broccoli",
+        "ingredients": [
+            "chicken breast",
+            "broccoli",
+            "garlic",
+            "olive oil",
+            "lemon juice"
+        ],
+        "macros": {
+            "protein": 18.75,
+            "fat": 8.33,
+            "carbs": 25.0
+        },
+        "calories": 250,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Chicken_with_Broccoli.jpg"
+    },
+    {
+        "name": "Beef Stroganoff with Noodles",
+        "ingredients": [
+            "beef strips",
+            "noodles",
+            "mushrooms",
+            "sour cream",
+            "onions"
+        ],
+        "macros": {
+            "protein": 33.15,
+            "fat": 14.73,
+            "carbs": 44.2
+        },
+        "calories": 442,
+        "photo_url": "http://localhost:8000/recipe_images/Beef_Stroganoff_with_Noodles.jpg"
+    },
+    {
+        "name": "Pasta Primavera",
+        "ingredients": [
+            "pasta",
+            "zucchini",
+            "bell peppers",
+            "olive oil",
+            "cheese"
+        ],
+        "macros": {
+            "protein": 24.0,
+            "fat": 10.67,
+            "carbs": 32.0
+        },
+        "calories": 320,
+        "photo_url": "http://localhost:8000/recipe_images/Pasta_Primavera.jpg"
+    },
+    {
+        "name": "Pan-Fried Fish with Almonds",
+        "ingredients": [
+            "trout fillet",
+            "almonds",
+            "lemon juice",
+            "butter",
+            "parsley"
+        ],
+        "macros": {
+            "protein": 27.0,
+            "fat": 12.0,
+            "carbs": 36.0
+        },
+        "calories": 360,
+        "photo_url": "http://localhost:8000/recipe_images/Pan-Fried_Fish_with_Almonds.jpg"
+    },
+    {
+        "name": "Shrimp Scampi with Linguine",
+        "ingredients": [
+            "shrimp",
+            "pasta",
+            "garlic",
+            "butter",
+            "parsley"
+        ],
+        "macros": {
+            "protein": 32.32,
+            "fat": 14.37,
+            "carbs": 43.1
+        },
+        "calories": 431,
+        "photo_url": "http://localhost:8000/recipe_images/Shrimp_Scampi_with_Linguine.jpg"
+    },
+    {
+        "name": "Grilled Steak with Chimichurri",
+        "ingredients": [
+            "steak",
+            "parsley",
+            "garlic",
+            "olive oil",
+            "vinegar"
+        ],
+        "macros": {
+            "protein": 27.68,
+            "fat": 12.3,
+            "carbs": 36.9
+        },
+        "calories": 369,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Steak_with_Chimichurri.jpg"
+    },
+    {
+        "name": "Baked Fish with Lemon Butter",
+        "ingredients": [
+            "fish fillet",
+            "butter",
+            "lemon juice",
+            "garlic",
+            "parsley"
+        ],
+        "macros": {
+            "protein": 20.1,
+            "fat": 8.93,
+            "carbs": 26.8
+        },
+        "calories": 268,
+        "photo_url": "http://localhost:8000/recipe_images/Baked_Fish_with_Lemon_Butter.jpeg"
+    },
+    {
+        "name": "Vegetable Curry with Chickpeas",
+        "ingredients": [
+            "chickpeas",
+            "coconut milk",
+            "curry",
+            "spinach",
+            "carrots"
+        ],
+        "macros": {
+            "protein": 23.02,
+            "fat": 10.23,
+            "carbs": 30.7
+        },
+        "calories": 307,
+        "photo_url": "http://localhost:8000/recipe_images/Vegetable_Curry_with_Chickpeas.jpg"
+    },
+    {
+        "name": "Eggplant Caponata with Bread",
+        "ingredients": [
+            "eggplant",
+            "tomatoes",
+            "olives",
+            "capers",
+            "whole grain bread"
+        ],
+        "macros": {
+            "protein": 21.75,
+            "fat": 9.67,
+            "carbs": 29.0
+        },
+        "calories": 290,
+        "photo_url": "http://localhost:8000/recipe_images/Eggplant_Caponata_with_Bread.jpg"
+    },
+    {
+        "name": "Turkey Chili with Cornbread",
+        "ingredients": [
+            "ground turkey",
+            "beans",
+            "tomatoes",
+            "chili powder",
+            "cornbread"
+        ],
+        "macros": {
+            "protein": 29.32,
+            "fat": 13.03,
+            "carbs": 39.1
+        },
+        "calories": 391,
+        "photo_url": "http://localhost:8000/recipe_images/Turkey_Chili_with_Cornbread.jpg"
+    },
+    {
+        "name": "Grilled Vegetables with Hummus",
+        "ingredients": [
+            "zucchini",
+            "bell peppers",
+            "eggplant",
+            "hummus",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 17.7,
+            "fat": 7.87,
+            "carbs": 23.6
+        },
+        "calories": 236,
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Vegetables_with_Hummus.jpg"
+    },
+    {
+        "name": "Tuna Salad Sandwich",
+        "ingredients": [
+            "tuna",
+            "mayonnaise",
+            "lettuce",
+            "whole grain bread",
+            "tomatoes"
+        ],
+        "macros": {
+            "protein": 27.52,
+            "fat": 12.23,
+            "carbs": 36.7
+        },
+        "calories": 367,
+        "photo_url": "http://localhost:8000/recipe_images/Tuna_Salad_Sandwich.jpg"
+    },
+    {
+        "name": "Mushroom Risotto",
+        "ingredients": [
+            "basmati rice",
+            "mushrooms",
+            "cheese",
+            "white wine",
+            "onions"
+        ],
+        "macros": {
+            "protein": 25.2,
+            "fat": 11.2,
+            "carbs": 33.6
+        },
+        "calories": 336,
+        "photo_url": "http://localhost:8000/recipe_images/Mushroom_Risotto.jpg"
+    },
+    {
+        "name": "Honey Soy Glazed Chicken",
+        "ingredients": [
+            "chicken breast",
+            "soy sauce",
+            "honey",
+            "garlic",
+            "ginger"
+        ],
+        "macros": {
+            "protein": 23.4,
+            "fat": 10.4,
+            "carbs": 31.2
+        },
+        "calories": 312,
+        "photo_url": "http://localhost:8000/recipe_images/Honey_Soy_Glazed_Chicken.jpg"
+    },
+    {
+        "name": "Fish with Rice Pilaf",
+        "ingredients": [
+            "fish fillet",
+            "basmati rice",
+            "lemon juice",
+            "paprika",
+            "olive oil"
+        ],
+        "macros": {
+            "protein": 27.6,
+            "fat": 12.27,
+            "carbs": 36.8
+        },
+        "calories": 368,
+        "photo_url": "http://localhost:8000/recipe_images/Fish_with_Rice_Pilaf.jpeg"
+    },
+    {
+        "name": "Vegetable Lasagna",
+        "ingredients": [
+            "pasta",
+            "zucchini",
+            "spinach",
+            "cheese",
+            "tomato sauce"
+        ],
+        "macros": {
+            "protein": 28.43,
+            "fat": 12.63,
+            "carbs": 37.9
+        },
+        "calories": 379,
+        "photo_url": "http://localhost:8000/recipe_images/Vegetable_Lasagna.jpg"
+    },
+    {
+        "name": "Steak and Sweet Potato Salad",
+        "ingredients": [
+            "steak",
+            "sweet potatoes",
+            "spinach",
+            "olive oil",
+            "balsamic vinegar"
+        ],
+        "macros": {
+            "protein": 30.22,
+            "fat": 13.43,
+            "carbs": 40.3
+        },
+        "calories": 403,
+        "photo_url": "http://localhost:8000/recipe_images/Steak_and_Sweet_Potato_Salad.jpg"
+    },
+    {
+        "name": "Roasted Cauliflower Tacos",
+        "ingredients": [
+            "cauliflower",
+            "taco shells",
+            "avocado",
+            "lime",
+            "cilantro"
+        ],
+        "macros": {
+            "protein": 18.0,
+            "fat": 8.0,
+            "carbs": 24.0
+        },
+        "calories": 240,
+        "photo_url": "http://localhost:8000/recipe_images/Roasted_Cauliflower_Tacos.jpg"
+    },
+    {
+        "name": "Chicken Alfredo Pasta",
+        "ingredients": [
+            "chicken breast",
+            "pasta",
+            "cheese",
+            "cream",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 39.9,
+            "fat": 17.73,
+            "carbs": 53.2
+        },
+        "calories": 532,
+        "photo_url": "http://localhost:8000/recipe_images/Chicken_Alfredo_Pasta.png"
+    },
+    {
+        "name": "Pork Stir-Fry with Beans",
+        "ingredients": [
+            "pork strips",
+            "beans",
+            "soy sauce",
+            "ginger",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 25.5,
+            "fat": 11.33,
+            "carbs": 34.0
+        },
+        "calories": 340,
+        "photo_url": "http://localhost:8000/recipe_images/Pork_Stir-Fry_with_Beans.jpg"
+    },
+    {
+        "name": "Cajun Shrimp with Basmati Rice",
+        "ingredients": [
+            "shrimp",
+            "basmati rice",
+            "cajun seasoning",
+            "bell peppers",
+            "onions"
+        ],
+        "macros": {
+            "protein": 30.3,
+            "fat": 13.47,
+            "carbs": 40.4
+        },
+        "calories": 404,
+        "photo_url": "http://localhost:8000/recipe_images/Cajun_Shrimp_with_Basmati_Rice.jpg"
+    },
+    {
+        "name": "Chicken Fajitas with Guacamole",
+        "ingredients": [
+            "chicken breast",
+            "bell peppers",
+            "onions",
+            "tortillas",
+            "avocado"
+        ],
+        "macros": {
+            "protein": 29.92,
+            "fat": 13.3,
+            "carbs": 39.9
+        },
+        "calories": 399,
+        "photo_url": "http://localhost:8000/recipe_images/Chicken_Fajitas_with_Guacamole.jpg"
+    },
+    {
+        "name": "Buffalo Chicken Mac and Cheese",
+        "ingredients": [
+            "chicken breast",
+            "pasta",
+            "cheddar cheese",
+            "buffalo sauce",
+            "milk"
+        ],
+        "macros": {
+            "protein": 71.25,
+            "carbs": 95,
+            "fat": 28.5
+        },
+        "calories": 950,
+        "photo_url": "http://localhost:8000/recipe_images/Buffalo_Chicken_Mac_and_Cheese.jpg"
+    },
+    {
+        "name": "Pasta with Ricotta and Spinach",
+        "ingredients": [
+            "pasta",
+            "cheese",
+            "spinach",
+            "cheese",
+            "tomato sauce"
+        ],
+        "macros": {
+            "protein": 69.0,
+            "carbs": 92,
+            "fat": 27.6
+        },
+        "calories": 920,
+        "photo_url": "http://localhost:8000/recipe_images/Pasta_with_Ricotta_and_Spinach.jpg"
+    },
+    {
+        "name": "Honey Garlic Pork Strips with Rice",
+        "ingredients": [
+            "pork strips",
+            "basmati rice",
+            "honey",
+            "soy sauce",
+            "garlic"
+        ],
+        "macros": {
+            "protein": 70.5,
+            "carbs": 94,
+            "fat": 28.2
+        },
+        "calories": 940,
+        "photo_url": "http://localhost:8000/recipe_images/Honey_Garlic_Pork_Strips_with_Rice.jpg"
+    },
+    {
+        "name": "Teriyaki Fish with Basmati Rice",
+        "ingredients": [
+            "salmon fillet",
+            "basmati rice",
+            "teriyaki sauce",
+            "broccoli",
+            "sesame seeds"
+        ],
+        "macros": {
+            "protein": 63.75,
+            "carbs": 85,
+            "fat": 25.5
+        },
+        "calories": 850,
+        "photo_url": "http://localhost:8000/recipe_images/Teriyaki_Fish_with_Basmati_Rice.jpg"
+    },
+    {
+        "name": "Spicy Shrimp Tacos with Avocado",
+        "ingredients": [
+            "shrimp",
+            "taco shells",
+            "avocado",
+            "coleslaw",
+            "spicy mayo"
+        ],
+        "macros": {
+            "protein": 66.75,
+            "carbs": 89,
+            "fat": 26.7
+        },
+        "calories": 890,
+        "photo_url": "http://localhost:8000/recipe_images/Spicy_Shrimp_Tacos_with_Avocado.jpg"
+    },
+    {
+        "name": "Turkey Meatloaf with Mashed Potatoes",
+        "ingredients": [
+            "ground turkey",
+            "breadcrumbs",
+            "ketchup",
+            "mashed potatoes",
+            "green beans"
+        ],
+        "macros": {
+            "protein": 65.25,
+            "carbs": 87,
+            "fat": 26.1
+        },
+        "calories": 870,
+        "photo_url": "http://localhost:8000/recipe_images/Turkey_Meatloaf_with_Mashed_Potatoes.jpeg"
+    },
+    {
+        "name": "BBQ Chicken Pizza",
+        "ingredients": [
+            "pizza dough",
+            "chicken breast",
+            "bbq sauce",
+            "cheese",
+            "red onion"
+        ],
+        "macros": {
+            "protein": 70.5,
+            "carbs": 94,
+            "fat": 28.2
+        },
+        "calories": 940,
+        "photo_url": "http://localhost:8000/recipe_images/BBQ_Chicken_Pizza.jpg"
+    },
+    {
+        "name": "Creamy Cajun Pasta with Chicken",
+        "ingredients": [
+            "pasta",
+            "chicken breast",
+            "cream",
+            "cheese",
+            "cajun seasoning"
+        ],
+        "macros": {
+            "protein": 66.0,
+            "carbs": 88,
+            "fat": 26.4
+        },
+        "calories": 880,
+        "photo_url": "http://localhost:8000/recipe_images/Creamy_Cajun_Pasta_with_Chicken.jpg"
+    },
+    {
+        "name": "Beef and Broccoli Stir-Fry with Noodles",
+        "ingredients": [
+            "beef strips",
+            "noodles",
+            "broccoli",
+            "soy sauce",
+            "ginger"
+        ],
+        "macros": {
+            "protein": 66.75,
+            "carbs": 89,
+            "fat": 26.7
+        },
+        "calories": 890,
+        "photo_url": "http://localhost:8000/recipe_images/Beef_and_Broccoli_Stir-Fry_with_Noodles.jpg"
+    },
+    {
+        "name": "Chicken Enchiladas with Salsa Verde",
+        "ingredients": [
+            "corn tortillas",
+            "chicken breast",
+            "salsa verde",
+            "cheese",
+            "sour cream"
+        ],
+        "macros": {
+            "protein": 65.25,
+            "carbs": 87,
+            "fat": 26.1
+        },
+        "calories": 870,
+        "photo_url": "http://localhost:8000/recipe_images/Chicken_Enchiladas_with_Salsa_Verde.jpg"
+    },
+    {
+        "name": "Pesto Chicken Pasta Bake",
+        "ingredients": [
+            "pasta",
+            "chicken breast",
+            "sauce",
+            "cheese",
+            "spinach"
+        ],
+        "macros": {
+            "protein": 68.25,
+            "carbs": 91,
+            "fat": 27.3
+        },
+        "calories": 910,
+        "photo_url": "http://localhost:8000/recipe_images/Pesto_Chicken_Pasta_Bake.jpg"
+    },
+    {
+        "name": "Tomato Basil Soup",
+        "calories": 230,
+        "macros": {
+            "protein": 7,
+            "carbs": 35,
+            "fat": 7
+        },
+        "ingredients": [
+            "tomatoes",
+            "basil",
+            "vegetable broth",
+            "olive oil",
+            "onion"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Tomato_Basil_Soup.jpg"
+    },
+    {
+        "name": "Greek Yogurt Parfait",
+        "calories": 250,
+        "macros": {
+            "protein": 15,
+            "carbs": 30,
+            "fat": 5
+        },
+        "ingredients": [
+            "greek yogurt",
+            "granola",
+            "honey",
+            "berries"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Greek_Yogurt_Parfait.jpg"
+    },
+    {
+        "name": "Cucumber Avocado Salad",
+        "calories": 280,
+        "macros": {
+            "protein": 5,
+            "carbs": 15,
+            "fat": 22
+        },
+        "ingredients": [
+            "cucumber",
+            "avocado",
+            "lemon juice",
+            "olive oil",
+            "cilantro"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Cucumber_Avocado_Salad.jpg"
+    },
+    {
+        "name": "Spicy Lentil Soup",
+        "calories": 300,
+        "macros": {
+            "protein": 12,
+            "carbs": 40,
+            "fat": 9
+        },
+        "ingredients": [
+            "lentils",
+            "carrots",
+            "celery",
+            "onion",
+            "spices"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Spicy_Lentil_Soup.jpg"
+    },
+    {
+        "name": "Grilled Vegetable Skewers",
+        "calories": 330,
+        "macros": {
+            "protein": 8,
+            "carbs": 45,
+            "fat": 11
+        },
+        "ingredients": [
+            "zucchini",
+            "bell peppers",
+            "onions",
+            "mushrooms",
+            "olive oil"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Grilled_Vegetable_Skewers.jpg"
+    },
+    {
+        "name": "Beef Lasagna",
+        "calories": 920,
+        "macros": {
+            "protein": 45,
+            "carbs": 85,
+            "fat": 40
+        },
+        "ingredients": [
+            "ground beef",
+            "pasta",
+            "cheese",
+            "tomato sauce",
+            "parmesan"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Beef_Lasagna.jpeg"
+    },
+    {
+        "name": "Chicken Alfredo Pizza",
+        "calories": 950,
+        "macros": {
+            "protein": 50,
+            "carbs": 95,
+            "fat": 30
+        },
+        "ingredients": [
+            "pizza dough",
+            "chicken breast",
+            "alfredo sauce",
+            "cheese",
+            "spinach"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Chicken_Alfredo_Pizza.jpg"
+    },
+    {
+        "name": "Shrimp Scampi with Pasta",
+        "calories": 930,
+        "macros": {
+            "protein": 40,
+            "carbs": 90,
+            "fat": 40
+        },
+        "ingredients": [
+            "shrimp",
+            "pasta",
+            "garlic",
+            "butter",
+            "parsley"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Shrimp_Scampi_with_Pasta.jpg"
+    },
+    {
+        "name": "Pulled Pork Sandwich with Coleslaw",
+        "calories": 970,
+        "macros": {
+            "protein": 55,
+            "carbs": 80,
+            "fat": 40
+        },
+        "ingredients": [
+            "pulled pork",
+            "burger bun",
+            "coleslaw",
+            "bbq sauce",
+            "pickle slices"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Pulled_Pork_Sandwich_with_Coleslaw.jpg"
+    },
+    {
+        "name": "Steak with Sweet Potato Mash",
+        "calories": 1000,
+        "macros": {
+            "protein": 60,
+            "carbs": 80,
+            "fat": 40
+        },
+        "ingredients": [
+            "steak",
+            "sweet potatoes",
+            "butter",
+            "garlic",
+            "green beans"
+        ],
+        "photo_url": "http://localhost:8000/recipe_images/Steak_with_Sweet_Potato_Mash.jpeg"
+    }
+]

@@ -1,0 +1,6 @@
+{
+  "DATABASE_URL": "sqlite:///C:/GEORGE/UBB FMI/License/RLPlanner/db.sqlite",
+  "SECRET_KEY": "e8a9f6b2d7a5c3e2b1f8c7d6a4f9e5b3c2d8a7f6b1e9c4d2a5b3c7d6f8e9a4b1",
+  "ALGORITHM": "HS256",
+  "ACCESS_TOKEN_EXPIRE_MINUTES": 1440
+}
