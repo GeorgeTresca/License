@@ -69,7 +69,7 @@ normalization_map = {
 
 }
 
-file_path = "../data/adjusted_recipes.json"
+file_path = "../data/recipes.json"
 with open(file_path, 'r') as file:
     recipes = json.load(file)
 
@@ -79,7 +79,7 @@ for recipe in recipes:
         normalized_ingredients.append(normalization_map.get(ingredient, ingredient))
     recipe["ingredients"] = normalized_ingredients
 
-output_path = "../../RLPlanner/data/adjusted_recipes.json"
+output_path = "../../RLPlanner/data/recipes.json"
 with open(output_path, 'w') as file:
     json.dump(recipes, file, indent=4)
 

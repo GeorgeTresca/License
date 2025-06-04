@@ -17,7 +17,6 @@ app = FastAPI(title="Meal Planner API", version="1.0")
 
 Base.metadata.create_all(bind=engine)
 
-
 app.include_router(auth.router, prefix="/auth", tags=["Authentication"])
 app.include_router(friends.router, prefix="/friends", tags=["Friends"])
 app.include_router(posts.router, prefix="/posts", tags=["Posts"])
@@ -30,22 +29,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-
-
-@app.websocket("/ws/{user_id}")
-async def websocket_endpoint(websocket: WebSocket, user_id: int):
-    await websocket.accept()
-    active_connections[user_id] = websocket  # Store WebSocket in active connections
-
-    try:
-        while True:
-            data = await websocket.receive_text()
-            await websocket.send_text(f"Received message: {data}")
-    except WebSocketDisconnect:
-        print(f"WebSocket disconnected for user: {user_id}")
-        active_connections.pop(user_id, None)
-
 
 UPLOAD_DIR = "static/profile_pictures/"
 POST_IMAGE_DIR = "static/post_pictures/"

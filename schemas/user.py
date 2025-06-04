@@ -1,11 +1,7 @@
-from pydantic import BaseModel, HttpUrl
+from pydantic import BaseModel, HttpUrl, validator, field_validator
+from typing import Optional, Any
 
-
-class UserCreate(BaseModel):
-    username: str
-    email: str
-    password: str
-
+BASE_URL = "http://localhost:8000"
 
 class UserLogin(BaseModel):
     email: str
@@ -18,7 +14,11 @@ class UserResponse(BaseModel):
     email: str
     profile_picture: HttpUrl
 
+    @field_validator("profile_picture", mode="before")
+    @classmethod
+    def create_full_url(cls, value: Any) -> Any:
+        if value and isinstance(value, str) and not value.startswith("http"):
+            return f"{BASE_URL}{value}"
+        return value
 
-class ChangePasswordRequest(BaseModel):
-    old_password: str
-    new_password: str
+

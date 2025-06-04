@@ -2,7 +2,7 @@ import random
 import json
 import os
 
-DATASET_FILE = "../data/adjusted_recipes.json"
+DATASET_FILE = "../data/recipes.json"
 
 
 def load_recipes():

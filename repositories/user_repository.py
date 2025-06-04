@@ -29,3 +29,12 @@ class UserRepository:
         self.db.refresh(new_user)
         return new_user
 
+    def update_profile_picture(self, user_id: int, url: str):
+        user = self.get_user_by_id(user_id)
+        if user:
+            user.profile_picture = url
+            self.db.commit()
+            self.db.refresh(user)
+        return user
+
+

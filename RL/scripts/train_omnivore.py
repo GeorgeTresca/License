@@ -18,12 +18,13 @@ if not os.path.exists(q_table_file):
 
     for calorie_target in calorie_targets:
         env = MealPlannerEnv(recipes, calorie_target)
-        q_table = train_rl_agent(env, episodes=150000)
+        q_table = train_rl_agent(env, episodes=200000)
         all_q_tables[calorie_target] = q_table
 
     with open(q_table_file, 'wb') as f:
         pickle.dump(all_q_tables, f)
 
     logging.info(f"Model trained and saved: {q_table_file}")
+
 
 

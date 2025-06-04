@@ -7,10 +7,6 @@ from schemas.comment import CommentResponse
 from schemas.like import LikeResponse
 
 
-class PostCreate(BaseModel):
-    caption: Optional[str] = Field(None, example="My healthy meal!")
-    image_url: Optional[str] = Field(None, example="/profile_pictures/meal1.jpg")
-    macros: Optional[Dict[str, float]] = Field(None, example={"calories": 500, "protein": 30, "carbs": 50})
 
 
 class PostResponse(BaseModel):

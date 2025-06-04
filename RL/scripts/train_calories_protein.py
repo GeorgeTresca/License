@@ -7,7 +7,7 @@ import logging
 
 from RL.utils_model.calories_config import CALORIE_RANGES
 
-DATASET_FILE = "../data/adjusted_recipes.json"
+DATASET_FILE = "../data/recipes.json"
 
 
 def load_recipes():
